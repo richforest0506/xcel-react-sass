@@ -5,6 +5,7 @@
 ## Description
 
 A landing page made using React & Sass.
+[Live Link](https://xcel.netlify.app/)
 
 ### Technologies
 
